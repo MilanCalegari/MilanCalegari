@@ -1,15 +1,23 @@
 ### Hi there, my name is Rodrigo 👋
 
-- 🔭 I’m currently working on ... LAGENPE (Laboratory of Fish Genetics) at São Paulo State University as undergraduate research student  .
-- 🌱 I’m currently learning ... Python, Computer Science and Evolution of Repetitive Sequences.
-- 📫 How to reach me: ... [My Twitter](https://twitter.com/rmcalegari)
+<div>
+  <a href="https://milancalegari.github.io/" target="_blank">
+  <img height="180em" align="left" alt="Rodrigo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MilanCalegari&show_icons=true&hide_border=true&theme=blue-green&include_all_commits=true" />
+  <img height="180em" alt="Rodrigo's Github languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilanCalegari&layout=compact&theme=blue-green"/>
+</div>
+  <h3>MY SKILLS</h3>
+  
+<div style="display: inline_block">
+  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=00599c&color=00599c"/>
+  <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img align="center" alt="Shell" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=00599c&color=00599c"/>
+  <img height="100" width="200" align="right" alt="JurassicDNA" src="https://miro.medium.com/max/625/1*RyQDtzZRq-XsDMvHpmw7nA.gif"/>
 
-<h3 align="left"> I have knowledge in:</h3>
-<p align="left"> <img src="https://camo.githubusercontent.com/902b40a1a237f9f1fafdca5ea16da3c4f2825651/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676e755f626173682f676e755f626173682d69636f6e2e737667" alt="bash" data-canonical-src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" style="max-width:100%;" width="40" height="40">
-<img src="https://github.com/RodrigoMilan/RodrigoMilan/blob/main/images/python.ico" style="max-width:100%;" width="40" height="40"> 
-<img src="https://github.com/RodrigoMilan/RodrigoMilan/blob/main/images/dna-chain.svg" style="max-width:100%;" width="40" height="40"> 
-</p>
+</div>
+  <h3>SOCIAL MEDIA</h3>
+<div style="display: inline_block">
+  <a href="https://twitter.com/rmcalegari" target="_blank" ><img align="center" alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/rodrigomcalegari" target="_blank"><img align="center" alt="linkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
 
-
-
-<img align="left" alt="Rodrigo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MilanCalegari&show_icons=true&hide_border=true&theme=dracula&include_all_commits=true" />
+![Snake](https:github.com/MilanCalegari/MilanCalegari/blob/output/github-contribution-grid-snake.svg)
