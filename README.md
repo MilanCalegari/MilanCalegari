@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://milancalegari.github.io/" target="_blank">
-  <img height="180em" align="left" alt="Rodrigo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MilanCalegari&show_icons=true&hide_border=true&theme=blue-green&include_all_commits=true" />
+  <img height="180em" align="left" alt="Rodrigo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MilanCalegari&show_icons=true&theme=blue-green&include_all_commits=true" />
   <img height="180em" alt="Rodrigo's Github languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilanCalegari&layout=compact&theme=blue-green"/>
 </div>
   <h3>MY SKILLS</h3>
