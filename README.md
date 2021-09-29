@@ -1,12 +1,15 @@
 ### Hi there, my name is Rodrigo 👋
-
+<h3>About Me</h3>
+<div>
+    My name is Rodrigo Calegari, I'm graduating student in biological sciences at São Paulo State University (UNESP), Brazil. Currently I'm working with repetite elements in the genome of Characiformes fishes at LAGENPE, UNESP. I interesting in development of new softwares and scripts to help the bioinformatics analysis.
+</div>
+<br/>
 <div>
   <a href="https://milancalegari.github.io/" target="_blank">
   <img height="180em" align="left" alt="Rodrigo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MilanCalegari&show_icons=true&theme=blue-green&include_all_commits=true" />
   <img height="180em" alt="Rodrigo's Github languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilanCalegari&layout=compact&theme=blue-green"/>
 </div>
   <h3>MY SKILLS</h3>
-  
 <div style="display: inline_block">
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=00599c&color=00599c"/>
   <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
