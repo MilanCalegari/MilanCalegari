@@ -11,7 +11,7 @@
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=00599c&color=00599c"/>
   <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img align="center" alt="Shell" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=00599c&color=00599c"/>
-  <img height="100" width="200" align="right" alt="JurassicDNA" src="https://miro.medium.com/max/625/1*RyQDtzZRq-XsDMvHpmw7nA.gif"/>
+  <img height="150" width="350" align="right" alt="JurassicDNA" src="https://miro.medium.com/max/625/1*RyQDtzZRq-XsDMvHpmw7nA.gif"/>
 
 </div>
   <h3>SOCIAL MEDIA</h3>
