@@ -20,4 +20,4 @@
   <a href="www.linkedin.com/in/rodrigomcalegari" target="_blank"><img align="center" alt="linkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
-![Snake](https:github.com/MilanCalegari/MilanCalegari/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/MilanCalegari/MilanCalegari/blob/output/github-contribution-grid-snake.svg)
