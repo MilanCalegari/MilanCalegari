@@ -4,7 +4,7 @@
     My name is Rodrigo Calegari, I'm graduating student in biological sciences at São Paulo State University (UNESP), Brazil. Currently I'm working with repetite elements in the genome of Characiformes fishes at LAGENPE, UNESP. I interesting in development of new softwares and scripts to help the bioinformatics analysis.
 </div>
 <br/>
-<div>
+<div style="display: inline_block">
   <a href="https://milancalegari.github.io/" target="_blank">
   <img height="180em" align="left" alt="Rodrigo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MilanCalegari&show_icons=true&theme=blue-green&include_all_commits=true" />
   <img height="180em" alt="Rodrigo's Github languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilanCalegari&layout=compact&theme=blue-green"/>
